@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://github.com/yizhilaohouzi/twohistorians.git/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://github.com/yizhilaohouzi/twohistorians.git/</loc>
+</url>
+<url>
+<loc>https://github.com/yizhilaohouzi/twohistorians.git/life.html</loc>
+<lastmod>2026-07-17T09:10:16-07:00</lastmod>
+</url>
+<url>
+<loc>https://github.com/yizhilaohouzi/twohistorians.git/su-shuang-bi-zhu-zuo.html</loc>
+<lastmod>2026-07-17T09:04:52-07:00</lastmod>
+</url>
+<url>
+<loc>https://github.com/yizhilaohouzi/twohistorians.git/wang-hong-zhi-zhu-zuo.html</loc>
+<lastmod>2026-07-17T09:11:07-07:00</lastmod>
+</url>
+<url>
+<loc>https://github.com/yizhilaohouzi/twohistorians.git/works.html</loc>
+<lastmod>2026-07-17T09:13:53-07:00</lastmod>
+</url>
+<url>
+<loc>https://github.com/yizhilaohouzi/twohistorians.git/zi-liao.html</loc>
+<lastmod>2026-07-17T09:32:54-07:00</lastmod>
+<image:image>
+<image:loc>https://github.com/yizhilaohouzi/twohistorians.git/media/posts/6/parents_2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
