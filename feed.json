@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Two Historians",
     "description": "",
-    "home_page_url": "https://yizhilaohouzi.github.io/twohistorians",
-    "feed_url": "https://yizhilaohouzi.github.io/twohistorians/feed.json",
+    "home_page_url": "https://twohistorians.org",
+    "feed_url": "https://twohistorians.org/feed.json",
     "user_comment": "",
     "author": {
         "name": "ZS"
